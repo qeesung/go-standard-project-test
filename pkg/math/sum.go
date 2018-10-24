@@ -1,7 +1,7 @@
 package mymath
 
 import (
-  "github.com/go-standard-project-test/internal/check"
+  "github.com/qeesung/go-standard-project-test/internal/check"
   "fmt"
 )
 
